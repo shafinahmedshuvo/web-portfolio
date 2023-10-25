@@ -8,3 +8,15 @@ h1 {font-size: 30px;}
     padding-top: 2%;
 }
 .half img {width: 80%;}
+.tophalf {background-image:url(images/skull.png);
+background-position: center;
+background-repeat: no-repeat;
+background-blend-mode: multiply;}
+section { height: 1000px;}
+.more_about {color: aliceblue;
+background-image: linear-gradient(45deg, lightSalmon
+ , tomato );
+text-decoration: none;
+font-weight: 700;
+padding: 8px 15px;
+border-radius: 8px;}
