@@ -1,0 +1,10 @@
+body {font-family:'poppins', sans-serif;}
+h1 {font-size: 30px;}
+.myname { font-size: 40px;color: orange;}
+.half {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+.half img {width: 80%;}
